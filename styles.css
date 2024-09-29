@@ -1,0 +1,10 @@
+body { font-size: 20px;
+  text-align: center;
+  background-image: url(https://file.garden/Zl9pI6rtSjkbw9F6/homework/bg1.png);
+  background-size: contain;
+  background-repeat: repeat;
+  ;
+}
+.titulo {color: #f2a516;  text-decoration: underline;}
+.textbg {background-color: rgba(255, 255, 255, 0.75)}
+.image1 {width: 500px; height: 400px;}
