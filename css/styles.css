@@ -3,8 +3,11 @@ body { font-size: 20px;
   background-image: url(https://file.garden/Zl9pI6rtSjkbw9F6/homework/bg1.png);
   background-size: contain;
   background-repeat: repeat;
-  ;
+  margin: 0;
+  padding: 0;
 }
+
 .titulo {color: #f2a516;  text-decoration: underline;}
 .textbg {background-color: rgba(255, 255, 255, 0.75)}
 .image1 {width: 500px; height: 400px;}
+.whatsapp {position: fixed;bottom: 10px;right: 10px}
