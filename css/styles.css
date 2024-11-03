@@ -40,7 +40,6 @@ justify-content: space-around;
 flex-direction: column;
 align-self: center}
 
-
 @media (max-width: 575px){
 body {background-image: linear-gradient(#ffffff, #000000);}
 .titulo {color: red}
